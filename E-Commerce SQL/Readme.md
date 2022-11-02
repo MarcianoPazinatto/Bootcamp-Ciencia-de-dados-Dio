@@ -1,0 +1,1 @@
+Este projeto tem o desafio de criar um banco de dados sql, popular a tabela e realizar consultas utilizando querys sql.
